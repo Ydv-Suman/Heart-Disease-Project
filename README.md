@@ -51,8 +51,6 @@ The target column shows whether the patient has heart disease:
 
 0 → No disease
 
-✅ Results
-Random Forest performed best in terms of accuracy and generalization.
 
 🛠️ Tools & Libraries
 Python
